@@ -3,6 +3,6 @@ Hello everyone, Good morning
 Welcome to PCCE
 
 SQL intro
-Python
-Python adv
 Flask
+
+Project1
